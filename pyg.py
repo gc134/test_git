@@ -1,3 +1,5 @@
+# test commentaires à virer
+
 # -*- coding: utf-8 -*-
 
 # Form implementation generated from reading ui file 'C:\Users\gwcueff\Documents\Bioinfo\outils_perso\python_germination\PyG_interface_2\interface_v2_2.ui'
